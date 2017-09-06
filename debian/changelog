@@ -1,0 +1,16 @@
+ros-lunar-grpc (0.0.2-0yakkety) yakkety; urgency=high
+
+  * Lower version requirement for cmake so that the package can be built under
+    trusty.
+  * Contributors: Shengye Wang
+
+ -- Shengye Wang <shengye@ucsd.edu>  Tue, 05 Sep 2017 00:00:00 -0000
+
+ros-lunar-grpc (0.0.1-0yakkety) yakkety; urgency=high
+
+  * Pre-release commit. (#1 <https://github.com/CogRob/catkin_grpc/issues/1>)
+  * Contributors: Shengye Wang
+
+ -- Shengye Wang <shengye@ucsd.edu>  Mon, 04 Sep 2017 00:00:00 -0000
+
+
