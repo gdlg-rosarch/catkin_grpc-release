@@ -1,3 +1,26 @@
+## grpc (lunar) - 0.0.2-0
+
+The packages in the `grpc` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar grpc` on `Wed, 06 Sep 2017 23:23:55 -0000`
+
+The `grpc` package was released.
+
+Version of package(s) in repository `grpc`:
+
+- upstream repository: https://github.com/CogRob/catkin_grpc.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## grpc (kinetic) - 0.0.2-0
 
 The packages in the `grpc` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic grpc` on `Wed, 06 Sep 2017 23:18:31 -0000`
