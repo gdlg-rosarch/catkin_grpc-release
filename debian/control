@@ -1,0 +1,12 @@
+Source: ros-kinetic-grpc
+Section: misc
+Priority: extra
+Maintainer: Shengye Wang <shengye@ucsd.edu>
+Build-Depends: debhelper (>= 9.0.0), autoconf, git-core, libltdl-dev, libtool, libtool-bin, ros-kinetic-catkin, rsync
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-grpc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Catkinized gRPC Package
